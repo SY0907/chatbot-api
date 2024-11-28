@@ -1,4 +1,4 @@
-package com.zking.chatbot.api.application.chatbot.api;
+package com.zking.chatbot.api.interfaces;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
